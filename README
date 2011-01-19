@@ -1,0 +1,3 @@
+Example assumes cas is running at localhost:8080 and this application is running at localhost:8081
+
+Demonstrates the minimal amount of configuration needed to connect to CAS
